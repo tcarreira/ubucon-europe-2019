@@ -18,17 +18,17 @@ h2, h3 {
 .remark-slide-content h1 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 45px; 
-  color: rgb(199, 73, 27);
+  color: #E95420;
 }
 .remark-slide-content h2 {
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 35px; 
-  color: #692a0dad;
+  color: #ED764D;
 }
 .remark-slide-content h3 {
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 25px; 
-  color: #949494;
+  color: #AEA79F;
 }
 
 .remark-slide-number {
@@ -52,22 +52,23 @@ p li {
 code {
   font-family: 'Ubuntu Mono', monospace;
 }
-.remark-code {
+.remark-code ,
+.hljs-default .hljs {
   font-size: 25px; 
   border-radius: 5px;
   display: block;
   padding: .5em;
   overflow-x: auto;
-  background: #222;
-  color: #ddd;
+  background: #E2E0DD;
+  color: #111111;
 }
 .remark-inline-code {
-  background: #ddd;
-  color: #000;
+  background: #E2E0DD;
+  color: #111111;
 }
 .remark-code-line-highlighted {
-  color: #eef;
-  background-color: #336;
+  color: #EAE9E7;
+  background-color: #6B4C61;
 }
 
 .small {
