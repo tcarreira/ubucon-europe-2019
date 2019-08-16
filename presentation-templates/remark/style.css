@@ -38,6 +38,9 @@ h2, h3 {
   color: #FBDDD2;
   opacity: 1.8;
 }
+.title .remark-slide-number{
+  display: none;
+}
 
 img {
   max-width: 95%;
@@ -45,7 +48,7 @@ img {
 p li {
   line-height: 1.5; 
 }
-.remark-notes > ul > li {
+.remark-notes li {
   line-height: 1.1; 
 }
 
