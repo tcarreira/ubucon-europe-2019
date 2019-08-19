@@ -76,14 +76,14 @@ Download them here (Resources): https://design.ubuntu.com/font/
 ### Colors 
 https://design.ubuntu.com/brand/colour-palette/
 
-* Title: <span style="color:#E95420">&#9632;</span> #E95420
-* 2nd sub-title: <span style="color:#ED764D">&#9632;</span> #ED764D
-* 3rd sub-title: <span style="color:#AEA79F">&#9632;</span> #AEA79F
-* Body: <span style="color:#000000">&#9632;</span> #000000
-* Slide number: <span style="color:#FBDDD2">&#9632;</span> #FBDDD2
-* Code background: <span style="color:#E2E0DD">&#9632;</span> #E2E0DD
-* Code text: <span style="color:#111111">&#9632;</span> #111111
-* Highlighted code backgroung: <span style="color:#6B4C61">&#9632;</span> #6B4C61
-* Highlighted code text: <span style="color:#EAE9E7">&#9632;</span> #EAE9E7
-* Impact/Quote slide background: <span style="color:#5E2750">&#9632;</span> #5E2750
-* Impact/Quote slide text: <span style="color:#EEEEEE">&#9632;</span> #EEEEEE
+* Title: ![#E95420](https://placehold.it/15/E95420/000000?text=+) `#E95420`
+* 2nd sub-title: ![#ED764D](https://placehold.it/15/ED764D/000000?text=+) `#ED764D`
+* 3rd sub-title: ![#AEA79F](https://placehold.it/15/AEA79F/000000?text=+) `#AEA79F`
+* Body: ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000`
+* Slide number: ![#FBDDD2](https://placehold.it/15/FBDDD2/000000?text=+) `#FBDDD2`
+* Code background: ![#E2E0DD](https://placehold.it/15/E2E0DD/000000?text=+) `#E2E0DD`
+* Code text: ![#111111](https://placehold.it/15/111111/000000?text=+) `#111111`
+* Highlighted code backgroung: ![#6B4C61](https://placehold.it/15/6B4C61/000000?text=+) `#6B4C61`
+* Highlighted code text: ![#EAE9E7](https://placehold.it/15/EAE9E7/000000?text=+) `#EAE9E7`
+* Impact/Quote slide background: ![#5E2750](https://placehold.it/15/5E2750/000000?text=+) `#5E2750`
+* Impact/Quote slide text: ![#EEEEEE](https://placehold.it/15/EEEEEE/000000?text=+) `#EEEEEE`
