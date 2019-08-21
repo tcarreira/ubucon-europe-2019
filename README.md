@@ -27,6 +27,8 @@ See below the usage instructions for each format, or the color schemes and instr
 1. Images should go to `img/some_image.jpg` folder and referenced in the presentation as `<img src="img/some_image.jpg" width="200">`. Recommended formats are `.jpg`, `.png` and `.svg`, but you could use [other formats](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Img#Supported_image_formats)  
 1. The template should provide enough examples for most use cases. If you want to explore more funcionality, head to https://remarkjs.com, or ask for help in the speakers channel.
 
+* If you already have a presentation in another theme, apply the ubucon theme to it and review all slides.
+  * Just copy and replace the `style.css` file and the `img/template/` dir.
 
 ### ODP (Open Document Presentation)
 

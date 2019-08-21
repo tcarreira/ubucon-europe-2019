@@ -12,7 +12,7 @@ h2, h3 {
 }
 .remark-slide-content {
   font-size: 25px; 
-  background-image: url('img/bg-slides.png');
+  background-image: url('img/template/bg-slides.png');
   background-size: contain; 
 }
 .remark-slide-content h1 {
@@ -83,7 +83,7 @@ code {
 
 .title{
   vertical-align: middle;
-  background-image: url('img/bg-title.png');
+  background-image: url('img/template/bg-title.png');
   background-size: contain; 
   text-align: right;
 }
@@ -117,7 +117,7 @@ code {
 }
 
 .impact {
-  background-image: url('img/bg-impact.png');
+  background-image: url('img/template/bg-impact.png');
   background-size: contain; 
 }
 .impact .content {
