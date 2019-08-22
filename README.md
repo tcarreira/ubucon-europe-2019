@@ -6,7 +6,7 @@ Repository for Ubucon Europe 2019 related files
 Check the templates for the presentations.
 
 Formats available (order of preference):
-1. HTML ([remark](https://remarkjs.com)) |  **prefered** dependency: browser<br>
+1. Markdown/HTML (with [remark](https://remarkjs.com)) |  **prefered** dependency: browser<br>
 1. ODP (Open Document Presentation) | dependency: LibreOffice / OpenOffice
 1. Google Slides ([presentation link](https://docs.google.com/presentation/d/1CMGgc3AYt62IExihr3l_ksS9GEZyWUnoJIVHZeGeZhA/edit?usp=sharing)) | dependency: browser
 1. PPTX (MS Powerpoint Presentation) | dependency: Windows + MS Office (PowerPoint)
@@ -17,7 +17,7 @@ See below the usage instructions for each format, or the color schemes and instr
 
 ## Usage Instructions
 
-### HTML (remark) **prefered**
+### Markdown/HTML (remark) **prefered**
 
 **requirements:** browser
 
